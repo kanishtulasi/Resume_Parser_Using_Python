@@ -1,0 +1,8 @@
+docx2txt==0.8
+numpy==1.23.5
+pandas==2.0.3
+pdfminer.six==20221105
+pdfplumber==0.10.2
+phonenumbers==8.13.22
+spacy==3.7.1
+streamlit==1.27.2
